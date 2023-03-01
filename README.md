@@ -158,10 +158,10 @@ while ( true ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/base/special/ahaversin`][@stdlib/math/base/special/ahaversin]</span><span class="delimiter">: </span><span class="description">compute the inverse half-value versed sine.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/ahavercos`][@stdlib/math/iter/special/ahavercos]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the inverse half-value versed cosine of each iterated value.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/haversin`][@stdlib/math/iter/special/haversin]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the half-value versed sine for each iterated value.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/versin`][@stdlib/math/iter/special/versin]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the versed sine for each iterated value.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/ahaversin`][@stdlib/math/base/special/ahaversin]</span><span class="delimiter">: </span><span class="description">compute the inverse half-value versed sine.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/ahavercos`][@stdlib/math/iter/special/ahavercos]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the inverse half-value versed cosine of each iterated value.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/haversin`][@stdlib/math/iter/special/haversin]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the half-value versed sine for each iterated value.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/versin`][@stdlib/math/iter/special/versin]</span><span class="delimiter">: </span><span class="description">create an iterator which computes the versed sine for each iterated value.</span>
 
 </section>
 
